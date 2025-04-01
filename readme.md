@@ -18,8 +18,12 @@ Este portfólio foi desenvolvido para apresentar minha jornada profissional, hab
 - Acordeons interativos para exibição dos conteúdos 🎭
 
 ## 🔗 Link do projeto
-- [Repositório GitHub]()
-- [Deploy]()
+- [Deploy](https://tiagoleopoldo.github.io/Portif-lio/)
+
+## 📧 Contato
+
+- LinkedIn: [Tiago Leopoldo](https://www.linkedin.com/in/tiago-noronha-leopoldo/)
+- Email: tnleopoldo.dev@gmail.com
 
 
 
