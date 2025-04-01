@@ -7,6 +7,7 @@
   updateLanguages(profileData)
   updateProfessionalExperience(profileData)
   updateProjects(profileData)
+  updateAcademicFormation(profileData)
 })()
 
 function updateProfileInfo(profileData) {
@@ -72,4 +73,15 @@ function updateProjects(profileData) {
             <a href="${projects.repositorie}" target="_blank">Repositório GitHub</a>
             <a href="${projects.deploy}" target="_blank">Deploy</a>
           </li>`}).join('')
+}
+
+function updateAcademicFormation(profileData) {
+  const formation = document.getElementById('profile.academicFormation')
+  formation.innerHTML = profileData.academic.map(academic => {
+    return `
+      <li>
+        <h3>${academic.name}</h3>
+        <p class="period">${academic.period}</p>
+    `
+  }).join('')
 }
