@@ -1,0 +1,77 @@
+{
+  "name": "Tiago de N. Leopoldo",
+  "photo": "https://avatars.githubusercontent.com/u/122064619?s=400&u=3a495d1306a47e300e8ace07e8bc9a0042aec123&v=4",
+  "job": "Desenvolvedor Front-End (link LinkedIn)",
+  "linkedin": "https://www.linkedin.com/in/tiago-noronha-leopoldo",
+  "location": "São João de Meriti - RJ",
+  "phone": "(21) 97427-8358",
+  "email": "tnleopoldo.dev@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+      },
+      {
+        "name": "CSS3",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+      },
+      {
+        "name": "HTML5",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+      },
+      {
+        "name": "GIT",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Organização",
+      "Flexibilidade",
+      "Trabalho em equipe",
+      "Resolução de problemas"
+    ]
+  },
+  "languages": [
+    "Português BR (Nativo)",
+    "Inglês (Técnico/Básico)"
+  ],
+  "portfolio": [
+    {
+      "name": "Pokémon List - The first 150",
+      "repositorie": "https://github.com/TiagoLeopoldo/Pokemon-List",
+      "deploy": "https://tiagoleopoldo.github.io/Pokemon-List/",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Em transição de carreira para Desenvolvimento Front-End",
+      "period": "novembro 2024 - presente",
+      "description": "Transição estratégica de carreira para o desenvolvimento front-end, aplicando habilidades de planejamento e organização adquiridas na gastronomia para a criação de interfaces intuitivas e funcionais. Especialização em Tailwind, JavaScript e React com foco em desenvolvimento responsivo e experiência do usuário. Controle de versionamento com Git e integração com APIs, aprimorando habilidades técnicas para oferecer experiências de alta qualidade."
+    },  
+    {
+      "name": "Cozinheiro Líder - Kim Pocha (RJ)",
+      "period": "setembro 2023 - novembro de 2024",
+      "description": "Líder focado no trabalho em equipe, planejar cardápio resultando metas concluídas em satisfação e número de vendas. Especialista em organização, mantendo o controle de estoque e de produção 100% atualizado."
+    },
+    {
+      "name": "Chef de Cozinha - Surreal Bar (RJ)",
+      "period": "janeiro 2023 - junho 2023",
+      "description": "Chefiar uma equipe de 7 colaboradores, implementando pratos de forma criativa trabalhando, visual, textura e sabor. Planejamento de controle de custos, produção e desperdício. Organizar escala operacional, controle de horas extras e bonificações. Supervisionando minunciosamente os padrão de execução de cada prato definido no cardápio alcançando a excelência para o cliente."
+    },
+    {
+      "name": "Cozinheiro - Solo Ristorante (DF)",
+      "period": "janeiro 2022 - agosto 2022",
+      "description": "Atuação direta no operacional, garantindo qualidade na execução dos pratos e excelência no atendimento. Responsável por supervisionar padrões de produção e controle de estoque, mantendo registros atualizados e reduzindo desperdícios. Apoio à equipe de cozinha, liderando e contribuindo para a inovação do cardápio."
+    }
+  ]
+}
