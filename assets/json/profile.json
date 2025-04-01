@@ -46,6 +46,12 @@
   ],
   "portfolio": [
     {
+      "name": "Portfólio - Tiago de Noronha Leopoldo",
+      "repositorie": "https://github.com/TiagoLeopoldo/Portif-lio",
+      "deploy": "https://tiagoleopoldo.github.io/Portif-lio/",
+      "github": true
+    },
+    {
       "name": "Pokémon List - The first 150",
       "repositorie": "https://github.com/TiagoLeopoldo/Pokemon-List",
       "deploy": "https://tiagoleopoldo.github.io/Pokemon-List/",
