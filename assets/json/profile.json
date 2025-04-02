@@ -56,6 +56,12 @@
       "repositorie": "https://github.com/TiagoLeopoldo/Pokemon-List",
       "deploy": "https://tiagoleopoldo.github.io/Pokemon-List/",
       "github": true
+    },
+    {
+      "name": "Lista de tarefas básica",
+      "repositorie": "https://github.com/TiagoLeopoldo/Lista",
+      "deploy": "https://tiagoleopoldo.github.io/Lista/",
+      "github": true
     }
   ],
   "professionalExperience": [
