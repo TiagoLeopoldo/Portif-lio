@@ -65,10 +65,15 @@
     }
   ],
   "professionalExperience": [
+        {
+      "name": "Estágiario Engenheiro Frontend - Martspec (Austin, Tx - EUA - Remoto)",
+      "period": "maio 2025 - presente",
+      "description": "Transição estratégica de carreira para o desenvolvimento front-end, aplicando habilidades de planejamento e organização adquiridas na gastronomia para a criação de interfaces intuitivas e funcionais. Especialização em Tailwind, JavaScript e React com foco em desenvolvimento responsivo e experiência do usuário. Controle de versionamento com Git e integração com APIs, aprimorando habilidades técnicas para oferecer experiências de alta qualidade."
+    },
     {
       "name": "Em transição de carreira para Desenvolvimento Front-End",
-      "period": "novembro 2024 - presente",
-      "description": "Transição estratégica de carreira para o desenvolvimento front-end, aplicando habilidades de planejamento e organização adquiridas na gastronomia para a criação de interfaces intuitivas e funcionais. Especialização em Tailwind, JavaScript e React com foco em desenvolvimento responsivo e experiência do usuário. Controle de versionamento com Git e integração com APIs, aprimorando habilidades técnicas para oferecer experiências de alta qualidade."
+      "period": "novembro 2024 - abril 2025",
+      "description": "Faço parte da equipe de desenvolvimento front-end da MartSpec, uma empresa multinacional que desenvolve aplicativos voltados para o bem-estar corporal de usuários de iOS. Minha principal responsabilidade é a tradução e atualização do site em diferentes idiomas, garantindo que o conteúdo seja adaptado corretamente para cada público e mantendo as imagens dinâmicas relacionadas a cada idioma. Além disso, realizo manutenção nos estilos de algumas áreas do site, respeitando a estrutura baseada no Atomic Design. Nossa stack inclui React, JavaScript, TypeScript, CSS e Bootstrap, e atuo em conjunto com designers e engenheiros front-end para garantir que as interfaces sejam funcionais e bem estruturadas. O fluxo de trabalho é gerenciado via Kanban no Jira, e a comunicação diária ocorre pelo Slack, onde interajo diretamente com designers, engenheiros e o gestor do projeto. Nossa equipe é global, com profissionais de Rússia, Ucrânia, Alemanha e Brasil, o que me permite atuar em um ambiente multicultural e dinâmico. Essa experiência tem sido essencial para aprimorar minhas habilidades técnicas e fortalecer minha capacidade de trabalho em equipe, comunicação e adaptação a metodologias ágeis."
     },  
     {
       "name": "Cozinheiro Líder - Kim Pocha (RJ)",
